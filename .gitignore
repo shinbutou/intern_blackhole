@@ -2,4 +2,7 @@
 *.DS_Store
 
 # Node.js
-/node_module
+/node_modules
+
+# Vue.js
+/client/node_modules
