@@ -1,0 +1,19 @@
+{
+  "name": "clock-in",
+  "version": "1.0.0",
+  "description": "a clock-in application developed for blackhole creative",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xczinfo/intern_blackhole.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xczinfo/intern_blackhole/issues"
+  },
+  "homepage": "https://github.com/xczinfo/intern_blackhole#readme"
+}
