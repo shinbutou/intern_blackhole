@@ -6,3 +6,6 @@
 
 # Vue.js
 /client/node_modules
+
+# Paw
+requests.paw
