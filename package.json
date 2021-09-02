@@ -1,0 +1,25 @@
+{
+  "name": "blackhole",
+  "version": "1.0.0",
+  "description": "a clock-in application developed for blackhole creative",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xczinfo/intern_blackhole.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xczinfo/intern_blackhole/issues"
+  },
+  "homepage": "https://github.com/xczinfo/intern_blackhole#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
