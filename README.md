@@ -3,3 +3,5 @@ The repository is dedicated to the clock-in web application developed for Blackh
 * Vue
 * Node
 * Express
+
+full-stack
