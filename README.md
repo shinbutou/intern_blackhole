@@ -4,4 +4,4 @@ The repository is dedicated to the clock-in web application developed for Blackh
 * Node
 * Express
 
-full-stack
+a full-stack project
