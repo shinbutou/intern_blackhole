@@ -4,4 +4,4 @@ The repository is dedicated to the clock-in web application developed for Blackh
 * Node.js
 * Express.js
 
-The project was my first full-stack project. The clock-in system includes features like log-in, access control. It also features RWD (responsive web design), which enables easy access . The whole project was completed through an autodidact learning experience , all componenets done by myself.
+The project was my first full-stack project. The clock-in system includes features like log-in, access control. It also features RWD (responsive web design), which enables easy access via. The whole project was completed through an autodidact learning experience , all componenets done by myself.
