@@ -1,5 +1,5 @@
 # ReadMe
-The repository is dedicated to the clock-in web application developed for Blackhole Creative, using:
+The repository is dedicated to the internships at Blackhole Creative, using:
 * Vue.js
 * Node.js
 * Express.js
