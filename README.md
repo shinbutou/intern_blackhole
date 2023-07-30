@@ -4,4 +4,4 @@ The repository is dedicated to the internships at Blackhole Creative, using:
 * Node.js
 * Express.js
 
-It also features RWD (responsive web design), enabling swift access via various types of devices seamlessly. The whole project was completed through an autodidact process, all main componenets in the project were composed by myself alone.
+It also features RWD (responsive web design), enabling swift access via various types of devices seamlessly. The whole project was completed throughout an autodidact process, all main componenets in the project were composed by myself ailone.
