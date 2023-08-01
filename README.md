@@ -1,5 +1,5 @@
 # ReadMe
-The repository is dedicated to the internship at Blackhole Creative, using:
+The repository is dedicated to the summer internship at Blackhole Creative, using:
 * Vue.js
 * Node.js
 * Express.js
